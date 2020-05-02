@@ -1,0 +1,35 @@
+﻿city1,city2,similarity
+San Jose,Sunnyvale,0.75
+Sunnyvale,San Jose,0.75
+Cupertino,Santa Clara,0.5
+Santa Clara,Cupertino,0.5
+Athetron,Milpitas,0.3333333333333333
+Athetron,Mountain View,0.3333333333333333
+Fremont,Palo Alto,0.3333333333333333
+Milpitas,Athetron,0.3333333333333333
+Milpitas,Mountain View,0.3333333333333333
+Mountain View,Athetron,0.3333333333333333
+Mountain View,Milpitas,0.3333333333333333
+Palo Alto,Fremont,0.3333333333333333
+Cupertino,Milpitas,0.25
+Cupertino,Mountain View,0.25
+Fremont,San Jose,0.25
+Milpitas,Cupertino,0.25
+Milpitas,Santa Clara,0.25
+Mountain View,Cupertino,0.25
+Mountain View,Santa Clara,0.25
+San Jose,Fremont,0.25
+Santa Clara,Milpitas,0.25
+Santa Clara,Mountain View,0.25
+Cupertino,San Jose,0.2
+Fremont,Sunnyvale,0.2
+Palo Alto,Sunnyvale,0.2
+San Jose,Cupertino,0.2
+San Jose,Santa Clara,0.2
+Santa Clara,San Jose,0.2
+Sunnyvale,Fremont,0.2
+Sunnyvale,Palo Alto,0.2
+Cupertino,Sunnyvale,0.16666666666666666
+Santa Clara,Sunnyvale,0.16666666666666666
+Sunnyvale,Cupertino,0.16666666666666666
+Sunnyvale,Santa Clara,0.16666666666666666
